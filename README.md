@@ -1,0 +1,5 @@
+- 👋  Hi, I’m @erzz
+- 👀  I’m interested in DevOps, Automation, Software Delivery and generally making stuff do other stuff!
+- 🌱  I’m currently learning golang and literally anything new and interesting!
+- 💞️  I’m looking to collaborate on simplifying any stage of the Software Delivery Lifecycle and generally reducing toil in deployment, testing, security or monitoring of great software
+- 📫  https://www.linkedin.com/in/seanel/

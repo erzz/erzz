@@ -15,3 +15,4 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.PROFILE_METRICS }}
+          config_timezone: Europe/Stockholm
